@@ -47,7 +47,7 @@
 ]
 }
 ],
-"spider":"https://download.kstore.space/download/3376/1128.jar;md5;6A92E85399922FF0FD7813BBC2F09957",
+"spider":"https://raw.githubusercontent.com/pihaz/tvbox-config/main/jar/1128.jar;md5;6A92E85399922FF0FD7813BBC2F09957",
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
